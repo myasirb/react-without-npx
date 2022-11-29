@@ -1,0 +1,19 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "React App Created without using npx command",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myasirb/reactIntro.git"
+  },
+  "author": "Muhammad Yasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myasirb/reactIntro/issues"
+  },
+  "homepage": "https://github.com/myasirb/reactIntro#readme"
+}

@@ -7,3 +7,10 @@ Create react app without using npx command
 
 ## Solution
 Following Steps are performed
+
+1. Created package.json file using command:
+    ```
+    npm init
+    ```
+
+2. 

@@ -1,3 +1,3 @@
 export const headerStyle = {
-    "text-align":"center"
+    "textAlign":"center"
 }

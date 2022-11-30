@@ -26,7 +26,6 @@ Following Steps are performed
     npm i --save-dev babel-loader @babel/preset-env @babel/core 
     @babel/plugin-transform-runtime 
     @babel/preset-react 
-    @babel/eslint-parser 
     @babel/runtime
     @babel/cli
     ```

@@ -10,13 +10,13 @@ Following Steps are performed
 
 1. Created package.json file using command:
     ```
-    npm init -y
+    npm init
     ```
     <br />
 
 2. Installed Web pack dependencies
     ```
-    npm i --save-dev webpack webpack-cli webpack-dev-server html-webpack-plugin
+    npm i --save-dev webpack webpack-cli webpack-dev-server
     ```
     <b>Web Pack</b> helps bundle entire code into final build
     <br />
@@ -54,7 +54,7 @@ Following Steps are performed
 9. Created web pack configuration
 <br />
 
-10. Created .babelrc file and added presets and plugins in it //depreciated
+10. Created .babelrc file and added presets and plugins in it
 <br />
 
 11. Added scripts in package.json to start project

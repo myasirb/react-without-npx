@@ -57,4 +57,8 @@ Following Steps are performed
 <br />
 
 11. Added scripts in package.json to start project
+    ```
+    "start": "webpack-dev-server ."
+    "build": "Webpack ."
+    ```
 <br />

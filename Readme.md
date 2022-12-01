@@ -70,7 +70,7 @@ Following Steps are performed
     ```
 <br />
 
-13. After that you should see the following output on <a href = "http://localhost:3000">http://localhost:3000</a>
+13. After that you should see the following output on <a target = "__blank" href = "http://localhost:3000">http://localhost:3000</a>
 <br />
 
 <img src="./output.png" alt="Output Screenshot" title="Output Screen">

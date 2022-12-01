@@ -72,7 +72,8 @@ Following Steps are performed
 
 13. After that you should see the following output on <a href = "http://localhost:3000">http://localhost:3000</a>
 <br />
-![Output Screen](output.png "Output Screen")
+
+<img src="./output.png" alt="Output Screenshot" title="Output Screen">
 
 <br />
 <hr />

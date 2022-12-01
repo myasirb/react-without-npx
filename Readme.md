@@ -62,3 +62,17 @@ Following Steps are performed
     "build": "Webpack ."
     ```
 <br />
+
+12. Run the following commands on terminal
+    ```
+    npm run build
+    npm start
+    ```
+<br />
+
+13. After that you should see the following output on <a href = "http://localhost:3000">http://localhost:3000</a>
+<br />
+![Output Screen](./output.png "Output Screen")
+
+<br />
+<hr />

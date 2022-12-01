@@ -72,7 +72,7 @@ Following Steps are performed
 
 13. After that you should see the following output on <a href = "http://localhost:3000">http://localhost:3000</a>
 <br />
-![Output Screen](./output.png "Output Screen")
+![Output Screen](output.png "Output Screen")
 
 <br />
 <hr />
